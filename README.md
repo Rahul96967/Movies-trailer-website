@@ -1,5 +1,5 @@
 # Movies-trailer-website
-A trailer in your finger tips
+A trailer on your finger tips
 ### by Rahul Muthyapu
 
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
