@@ -3,16 +3,16 @@ A trailer on your finger tips
 ### by Rahul Muthyapu
 
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
-Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ## What it is and does
 
 A Python program that creates a HTML for a movie website that displays
 a number of movies. Click on a movie poster to play its trailer.
 
-## Required Libraries and Dependencies
+## Dependencies
 
-Python 2.7.any is required to run this project. The Python executable should be in
+Python 2.7. is required to run this project. The Python executable should be in
 your default path, which the Python installer should have set.
 
 ## Movie-tralier-website Project contents
@@ -21,7 +21,7 @@ This project consists for the following files:
 
 * entertainment_center.py - main Python script to run
 * media.py - contains the class Movie that stores movie details
-* fresh_tomatoes.py - creates the HTML file for the website (Udacity has supplied)
+* fresh_tomatoes.py - creates the HTML file for the website
 
 ## How to Run Project
 
