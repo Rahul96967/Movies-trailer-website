@@ -12,10 +12,10 @@ a number of movies. Click on a movie poster to play its trailer.
 
 ## Required Libraries and Dependencies
 
-Python 2.x is required to run this project. The Python executable should be in
+Python 2.7.any is required to run this project. The Python executable should be in
 your default path, which the Python installer should have set.
 
-## Project contents
+## Movie-tralier-website Project contents
 
 This project consists for the following files:
 
@@ -39,14 +39,11 @@ python entertainment_center.py
 
 Your default browser should launch a new tab displaying the movie trailer website.
 
-## Extra Credit Description
+## Credit Description
 
 The following features were implemented to gain an extra credit from Udacity:
 
 * Added the storyline of the movie to the website.
-* Added the release date to the Movie class, which is also displayed on the website.
-* Changed the background and text colour to create a dark theme for the website.
-* Added subtle drop shadow to the movie poster images.
 
 ## Reference
-[writing Readmes](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923)
+[writing ReadMes](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923)
