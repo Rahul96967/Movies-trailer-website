@@ -48,3 +48,5 @@ The following features were implemented to gain an extra credit from Udacity:
 * Changed the background and text colour to create a dark theme for the website.
 * Added subtle drop shadow to the movie poster images.
 
+## Reference
+[writing Readmes](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923)
